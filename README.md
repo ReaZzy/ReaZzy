@@ -28,7 +28,7 @@
 ### GitHub Stats:
 
 <img align="left" alt="ReaZzy`s GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ReaZzy&show_icons=true&hide_border=true" />
-<img align="left" alt="ReaZzy`s GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaZzy&layout=compact" />
+<img align="right" alt="ReaZzy`s GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaZzy&layout=compact" />
 
 
 
