@@ -4,8 +4,8 @@
 ## I'm a Front-end developer!!
 
 ### Connect with me:
-[<img align="left" width="32px" alt="Telegram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111710.svg?token=exp=1616155326~hmac=5a4675d1915eabbb92c94972ab73d9b1" />][telegram]
-[<img align="left" width="32px" alt="Telegram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111363.svg?token=exp=1616158302~hmac=04ae70874604a77e60b8525401279888" />][discord]
+[telegram] |
+[discord]
 
 <br />
 
@@ -32,5 +32,5 @@
 
 
 
-[telegram]: https://t.me/reazzy1
-[discord]: https://discordapp.com/channels/@me/325684010422501376/
+[Telegram]: https://t.me/reazzy1
+[Discord]: https://discordapp.com/channels/@me/325684010422501376/
