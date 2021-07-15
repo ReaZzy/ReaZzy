@@ -20,7 +20,7 @@ const connectWithMe = {
 <td>
     
 ```javascript
-const technologies = {
+const technologies = [
 ```
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="42"/>
   <img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" width="42" />
@@ -37,7 +37,7 @@ const technologies = {
   
      
 ```javascript
-}
+]
 ```   
      
 </td>
