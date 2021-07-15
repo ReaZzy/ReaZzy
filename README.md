@@ -1,36 +1,41 @@
-### Hi there, I'm Max 👋
-
-
-## I'm a Front-end developer!!
-
-### Connect with me:
-[telegram] |
-[discord]
-
-<br />
-
-### Languages and Tools:
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="Npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-### GitHub Stats:
-
-<img width="45%" align="left" alt="ReaZzy`s GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ReaZzy&show_icons=true&hide_border=true" />
-<img width="45%" align="right" alt="ReaZzy`s GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaZzy&layout=compact" />
-
-
-
-[Telegram]: https://t.me/reazzy1
-[Discord]: https://discordapp.com/channels/@me/325684010422501376/
+# <img src="https://data.whicdn.com/images/249699036/original.gif" alt="hello-paw" width="48"/> Hello i'm ReaZzy! <img src="https://data.whicdn.com/images/249699036/original.gif" alt="hello-paw" width="48"/>
+<table>
+<td>
+  
+```bash
+$ I'm full-stack javascript developer
+```
+```javascript
+const connectWithMe = {
+  "email": "maxim.nebela@gmail.com",
+  "telegram": "@reazzy1",
+  "discord": "ReaZzy#1944",
+}
+```
+</td>
+<td>
+    
+```javascript
+const technologies = {
+```
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="42"/>
+  <img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" width="42" />
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="42"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="42"/>
+  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJs" width="42" />
+  <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="NestJs" width="42" />
+  <img src="https://cdn.svgporn.com/logos/express.svg" alt="Express" width="42" />
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="NodeJs" width="42" />
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="42" />
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="42" />
+     
+```javascript
+}
+```   
+     
+</td>
+<td>
+  <img src="https://c.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="drawing" width="300"/>
+</td>
+  
+</table>
