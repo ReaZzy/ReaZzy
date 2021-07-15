@@ -1,6 +1,10 @@
-# <img src="https://data.whicdn.com/images/249699036/original.gif" alt="hello-paw" width="48"/> Hello i'm ReaZzy! <img src="https://data.whicdn.com/images/249699036/original.gif" alt="hello-paw" width="48"/>
+
+---
+<h1 align="center"><img src="https://data.whicdn.com/images/249699036/original.gif" alt="hello-paw" width="48"/> Hello i'm ReaZzy! <img src="https://data.whicdn.com/images/249699036/original.gif" alt="hello-paw" width="48"/></h1>
+
 <table>
 <td>
+
   
 ```bash
 $ I'm full-stack javascript developer
@@ -42,3 +46,5 @@ const technologies = {
 </td>
   
 </table>
+
+---
