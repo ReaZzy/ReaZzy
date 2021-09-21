@@ -7,7 +7,7 @@
 
   
 ```bash
-$ I'm full-stack javascript developer
+$ I'm 16y.o. full-stack javascript developer
 ```
 ```javascript
 const connectWithMe = {
