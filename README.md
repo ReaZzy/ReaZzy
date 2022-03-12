@@ -36,12 +36,12 @@ const technologies = [
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="Postgres" width="42" />
   <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="42" />
   <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="42" />
-  
 ```javascript
 ]
 ```   
      
 </td>
+
 <td>
   <img src="https://c.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="drawing" minWidth="300"/>
 </td>
