@@ -2,4 +2,4 @@ Hello 👋
 My name is Max 🚀
 I'm  16 🚈
 My commit streak is too big, so I don't want to break it at all. That's why I'm making empty commits like this one) sorry ...
-|
+||
