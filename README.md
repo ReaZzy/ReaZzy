@@ -7,13 +7,14 @@
 
   
 ```bash
-$ I'm 16y.o. full-stack javascript developer
+$ I'm 17y.o. frontend developer
 ```
 ```javascript
 const connectWithMe = {
   "email": "maxim.nebela@gmail.com",
   "telegram": "@reazzy1",
   "discord": "ReaZzy#1944",
+  "linkedin": "www.linkedin.com/in/maxim-nebela-66266a211/",
 }
 ```
 </td>
