@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm ReaZzy </h1>
 
 ```rust
-I'm a 18-year-old frontend developer
+I'm an 18-year-old frontend developer
 ```
 ```rust
 Contacts:
