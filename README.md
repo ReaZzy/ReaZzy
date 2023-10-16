@@ -12,18 +12,7 @@ LinkedIn: www.linkedin.com/in/maxim-nebela
 ```
 ```rust
 Technologies:
-JavaScript
-TypeScript
-React
-Redux
-NextJS
-GraphQL
-Apollo
-NodeJS
-Jest
-Docker
-HTML
-CSS
+JavaScript, TypeScript, React, Redux, NextJS, GraphQL, Apollo, NodeJS, Jest, Docker, HTML, CSS
 ```
 </td>
 
