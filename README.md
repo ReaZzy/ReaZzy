@@ -1,50 +1,31 @@
+<h1 align="center">Hello I'm ReaZzy </h1>
 
----
-<h1 align="center"><img src="https://data.whicdn.com/images/249699036/original.gif" alt="hello-paw" width="48"/> Hello I'm ReaZzy <img src="https://data.whicdn.com/images/249699036/original.gif" alt="hello-paw" width="48"/></h1>
-
-<table>
-<td>
-
-  
-```bash
-$ I'm a 17-year-old frontend developer
+```rust
+I'm a 18-year-old frontend developer
 ```
-```javascript
-const connectWithMe = {
-  "email": "maxim.nebela@gmail.com",
-  "telegram": "@reazzy1",
-  "discord": "ReaZzy#1010",
-  "linkedin": "www.linkedin.com/in/maxim-nebela/",
-}
+```rust
+Contacts:
+Email: maxim.nebela@gmail.com
+Telegram: @reazzy1
+Discord: @nebela
+LinkedIn: www.linkedin.com/in/maxim-nebela
+```
+```rust
+Technologies:
+JavaScript
+TypeScript
+React
+Redux
+NextJS
+GraphQL
+Apollo
+NodeJS
+Jest
+Docker
+HTML
+CSS
 ```
 </td>
-<td>
-    
-```javascript
-const technologies = [
-```
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="42"/>
-  <img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" width="42" />
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="42"/>
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="42"/>
-  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJs" width="42" />
-  <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="CSS" width="42" />
-  <img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="CSS" width="42" />
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="NodeJs" width="42" />
-  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="42" />
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="42" />
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="42" />
-  
-```javascript
-]
-```   
-     
-</td>
 
-<td>
-  <img src="https://c.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" alt="drawing" minWidth="300"/>
-</td>
-  
-</table>
 
----
+
