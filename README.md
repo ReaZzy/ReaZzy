@@ -1,20 +1,11 @@
-<h1 align="center">Hello I'm ReaZzy </h1>
-
-```rust
-I'm an 18-year-old frontend developer
-```
-```rust
-Contacts:
+<big><pre>
 Email: maxim.nebela@gmail.com
 Telegram: @reazzy1
 Discord: @nebela
-LinkedIn: www.linkedin.com/in/maxim-nebela
-```
-```rust
+LinkedIn: [Maxim Nebela](https://www.linkedin.com/in/maxim-nebela/)
+</pre></big>
+
+<big><pre>
 Technologies:
-JavaScript, TypeScript, React, Redux, NextJS, GraphQL, Apollo, NodeJS, Jest, Docker, HTML, CSS
-```
-</td>
-
-
-
+JavaScript, TypeScript, React, NextJS, GraphQL, NodeJS, Jest, HTML, CSS, Docker
+</pre></big>
