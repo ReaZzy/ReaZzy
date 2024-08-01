@@ -7,5 +7,5 @@ LinkedIn: [Maxim Nebela](https://www.linkedin.com/in/maxim-nebela/)
 
 <big><pre>
 Technologies:
-JavaScript, TypeScript, React, NextJS, GraphQL, NodeJS, Jest, HTML, CSS, Docker
+JavaScript, TypeScript, React, Next.js, Node.js, GraphQL, Jest, Docker
 </pre></big>
