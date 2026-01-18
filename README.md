@@ -1,4 +1,7 @@
 <big><pre>
+Website & Blog: https://nebela.dev
+</pre></big>
+<big><pre>
 Email: maxim.nebela@gmail.com
 Telegram: @reazzy1
 Discord: @nebela
@@ -7,5 +10,5 @@ LinkedIn: [Maxim Nebela](https://www.linkedin.com/in/maxim-nebela/)
 
 <big><pre>
 Technologies:
-JavaScript, TypeScript, React, Next.js, Node.js, Docker
+JavaScript, TypeScript, React, Node.js
 </pre></big>
